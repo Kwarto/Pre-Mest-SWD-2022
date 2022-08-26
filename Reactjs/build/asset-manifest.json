@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.d44fce0f.css",
-    "main.js": "/static/js/main.e1b5f936.js",
-    "static/media/react-icon.png": "/static/media/react-icon.8a6fc0a24a800d1e0f4a.png",
+    "main.css": "/static/css/main.c9b16895.css",
+    "main.js": "/static/js/main.e587fd6b.js",
+    "static/media/Group 77.png": "/static/media/Group 77.63ffcab23c59952505ba.png",
+    "static/media/image 12.png": "/static/media/image 12.91964e92bd0473f2e81e.png",
+    "static/media/wedding-photography 1.png": "/static/media/wedding-photography 1.9ff25b6971291fe14365.png",
+    "static/media/mountain-bike 1.png": "/static/media/mountain-bike 1.6ba709420db48ce26839.png",
     "index.html": "/index.html",
-    "main.d44fce0f.css.map": "/static/css/main.d44fce0f.css.map",
-    "main.e1b5f936.js.map": "/static/js/main.e1b5f936.js.map"
+    "main.c9b16895.css.map": "/static/css/main.c9b16895.css.map",
+    "main.e587fd6b.js.map": "/static/js/main.e587fd6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d44fce0f.css",
-    "static/js/main.e1b5f936.js"
+    "static/css/main.c9b16895.css",
+    "static/js/main.e587fd6b.js"
   ]
 }
